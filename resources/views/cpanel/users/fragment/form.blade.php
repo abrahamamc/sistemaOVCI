@@ -13,8 +13,8 @@
     </div>
     <div class="col-6">
         <div class="form-group">
-            {!! Form::label('direction','Direccion') !!}
-            {!! Form::text('direction', null,['class'=>'form-control']) !!}
+            {!! Form::label('direccion','Direccion') !!}
+            {!! Form::text('direccion', null,['class'=>'form-control']) !!}
         </div>
     </div>
     <div class="col-6">
