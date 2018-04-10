@@ -13,7 +13,7 @@
                     <a class="btn btn-outline-dark float-right" href="{{route('users.create')}}">Nuevo</a>
                 </div>
             </div>
-{{--            @include('users.fragment.info')--}}
+            @include('cpanel/users.fragment.info')
             <table class="table table-hover ">
                 <thead>
                 <tr>
@@ -35,7 +35,7 @@
                         <td>{{ $user ->type }}</td>
                         <td>
                             <div class="btn-group btn-group-toggle">
-                                {{--<a href="{{ route('users.show', $user->id) }}" class="btn btn-outline-success" role="button" aria-pressed="true" >Ver</a>--}}
+                                <a href="{{ route('users.show', $user->id) }}" class="btn btn-outline-success" role="button" aria-pressed="true" >Ver</a>
 
                                 <a href="{{ route('users.edit', $user->id) }}" class="btn btn-outline-warning" role="button" aria-pressed="true" >Editar</a>
 

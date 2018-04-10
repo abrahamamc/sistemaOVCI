@@ -1,36 +1,42 @@
 <div class="row">
     <div class="col-6">
         <div class="form-group">
-            {!! Form::label('user','Usuario') !!}
-            {!! Form::text('user', null,['class'=>'form-control']) !!}
-        </div>
-    </div>
-    <div class="col-6">
-        <div class="form-group">
             {!! Form::label('name','Nombre') !!}
             {!! Form::text('name', null,['class'=>'form-control']) !!}
         </div>
     </div>
     <div class="col-6">
         <div class="form-group">
-            {!! Form::label('last_name','Apellido') !!}
-            {!! Form::text('last_name', null,['class'=>'form-control']) !!}
+            {!! Form::label('apellidos','Apellido') !!}
+            {!! Form::text('apellidos', null,['class'=>'form-control']) !!}
         </div>
     </div>
     <div class="col-6">
         <div class="form-group">
-            {!! Form::label('level','Nivel ') !!}
-            {!! Form::select('level',['Administrador'=>'Administrador',
-                                        'Editor'=>'Editor']
-                                        , null,['class'=>'form-control']
-        ) !!}
-
+            {!! Form::label('direccion','Direccion') !!}
+            {!! Form::text('direccion', null,['class'=>'form-control']) !!}
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            {!! Form::label('telefono','Telefono') !!}
+            {!! Form::number('telefono', null,['class'=>'form-control']) !!}
         </div>
     </div>
     <div class="col-6">
         <div class="form-group">
             {!! Form::label('email','Correo') !!}
             {!! Form::email('email', null,['class'=>'form-control']) !!}
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            {!! Form::label('type','Tipo') !!}
+            {!! Form::select('type',['Administrador'=>'Administrador',
+                                        'Empleado'=>'Empleado']
+                                        , null,['class'=>'form-control']
+        ) !!}
+
         </div>
     </div>
     <div class="col-12">
@@ -40,9 +46,6 @@
         </div>
     </div>
 </div>
-
-
-
 
 
 
