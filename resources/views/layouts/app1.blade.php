@@ -89,13 +89,15 @@
             <br>
         </div>
         <div class="col-md-4">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut enim, eum expedita ipsum iusto nisi obcaecati, officiis praesentium quam quo tempore totam. Aut eaque et, nobis numquam officiis veniam veritatis?</p>
+            <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt="">
         </div>
+
         <div class="col-md-4">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium cumque dignissimos ducimus eaque, ipsa ipsum labore laboriosam laborum libero magni molestias porro quod veniam. Architecto atque consectetur doloremque iure nemo.</p>
+            <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt="">
         </div>
+        
         <div class="col-md-4">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut deleniti dolorum eveniet expedita in ipsum iusto laborum laudantium libero nesciunt nihil odio porro quisquam repellendus rerum totam voluptatem, voluptatibus!</p>
+            <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt="">
         </div>
     </div>
 </div>
