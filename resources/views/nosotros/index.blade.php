@@ -1,4 +1,7 @@
+@extends('layouts.app1')
 
+
+@section('nosotros')
 
 <div class="col-md-12 text-center">
         <h2>Nosotros</h2>
@@ -115,3 +118,4 @@
                 </div>
 
               </div>
+    @endsection

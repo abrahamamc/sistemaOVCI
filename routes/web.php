@@ -29,3 +29,4 @@ Route::resource('/servicios', 'HomeController');
 
 }); */
 
+Route::resource('nosotros','FrontController');
