@@ -21,6 +21,8 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('users','UsersController');
 
+Route::resource('/servicios', 'HomeController');
+
 /* Route::group(['prefix' => 'cpanel'], function(){
     
     Route::get('users','UsersController@index');
