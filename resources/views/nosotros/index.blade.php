@@ -1,7 +1,7 @@
 @extends('layouts.app1')
 
 
-@section('nosotros')
+@section('content')
 
 <div class="col-12">
     <br>

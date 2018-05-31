@@ -33,7 +33,7 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#">Servicios</a>
+        <a class="nav-link" href="{{ route('servicios.index') }}">Servicios</a>
       </li>
 
       <li class="nav-item">
@@ -56,16 +56,12 @@
 
     <div class="container">
         <div class="row">
-            @yield('nosotros')
+            @yield('content')
         </div>
     </div>
 
 
-<div class="container">
 
-    @yield('servicios')
-
-</div>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
