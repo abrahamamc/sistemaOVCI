@@ -34,5 +34,5 @@
 
 
 @section('container')
-    <h1>hola mundo</h1>
-    @endsection
+    <h1> Promociones </h1>    
+@endsection
