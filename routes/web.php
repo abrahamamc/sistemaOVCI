@@ -24,3 +24,7 @@ Route::resource('users','UsersController');
 Route::resource('servicios', 'ServiciosController');
 
 Route::resource('nosotros','NosotrosController');
+
+Route::resource('productos','ProductosController');
+
+Route::resource('contacto','ContactosController');
