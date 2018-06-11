@@ -8,7 +8,7 @@ class FrontController extends Controller
 {
     public function index()
     {
-        return view('nosotros.index');
+        return view('index');
     }
 
 }
