@@ -31,8 +31,3 @@
     </div>
 
 @endsection
-
-
-@section('container')
-    <h1> Promociones </h1>    
-@endsection
