@@ -37,11 +37,11 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#">Productos</a>
+        <a class="nav-link" href="{{ route('productos.index') }}">Productos</a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#">Contacto</a>
+        <a class="nav-link" href="{{ route('contacto.index') }}">Contacto</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
