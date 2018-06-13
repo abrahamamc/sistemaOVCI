@@ -10,14 +10,14 @@
     <div class="row">
 
         <div class="col-md-3">
-            <h3>Contactanos</h3>
+            <h3 class="text-center">Contactanos</h3>
 
-            <img src="img/png/callcenter.png" alt="..." class="img-thumbnail">
+            <img src="img/png/callcenter.png" alt="..." class="img">
         </div>
 
         <div class="col-md-6">
             <h3>Pc Jogza Campeche</h3>
-            <p>Tu tienda de computo de confianza</p>
+            <p>Tu tienda de cómputo de confianza</p>
 
             <h3>Dirección</h3>
             <p>Avenida Miguel Aleman #168 Colonia Guadalupe, Campeche Campeche CP 24010</p>

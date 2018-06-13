@@ -9,6 +9,7 @@
 
 <div class="col-md-12 text-center">
         <h2 class="display-4">Nosotros</h2>
+        <hr>
     </div>
 
 
@@ -17,7 +18,8 @@
     </div>
 
     <div class="col-md-6 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+
+        <img class="img" src="img/hr/011-analisis.png" alt="">
         <h3>Visión</h3>
 
         <p class="text-justify lead">
@@ -27,6 +29,8 @@
     </div>
 
     <div class="col-md-6 text-center">
+
+        <img class="img" src="img/hr/mision.png" alt="">
         <h3>Misión</h3>
 
         <p class="text-justify lead">
@@ -44,7 +48,8 @@
     </div>
 
     <div class="col-md-12 text-center">
-        <h3 class="display-4">Nuestros Valores</h3>            
+        <h3 class="display-4">Nuestros Valores</h3>    
+        <hr>        
     </div>
 
     <div class="col-12">
@@ -52,7 +57,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+        <img class="img" src="img/hr/disciplina.png" alt="">
         <h3>Disciplina</h3>
 
         <p class="text-justify lead">
@@ -62,7 +67,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+            <img class="img" src="img/hr/teamwork.png" alt="">
         <h3>Trabajo en Equipo</h3>
 
         <p class="text-justify lead">
@@ -72,7 +77,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+            <img class="img" src="img/hr/calidad.png" alt="">
         <h3>Calidad</h3>
 
         <p class="text-justify lead">
@@ -86,7 +91,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+            <img class="img" src="img/hr/respeto.png" alt="">
         <h3>Respeto</h3>
 
         <p class="text-justify lead">
@@ -96,7 +101,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+            <img class="img" src="img/hr/005-motivacion.png" alt="">
         <h3>Integridad</h3>
 
         <p class="text-justify lead">
@@ -105,7 +110,7 @@
     </div>
 
     <div class="col-md-4 text-center">
-        {{-- <img class="img-thumbnail rounded" src="img/imgen1.jpg" alt=""> --}}
+            <img class="img" src="img/hr/004-diploma.png" alt="">
         <h3>Excelencia</h3>
 
         <p class="text-justify lead">
