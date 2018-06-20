@@ -45,7 +45,7 @@
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Introduzca búsqueda" aria-label="Buscar">
+      <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Buscar">
       <button class="btn btn-primary my-2 my-sm-0" type="submit">Buscar</button>
     </form>
   </div>
@@ -59,6 +59,14 @@
             @yield('content')
         </div>
     </div>
+
+    <br>
+
+    <div class="container">
+      <div class="row">
+          @yield('contenido')
+      </div>
+  </div>
 
 
 

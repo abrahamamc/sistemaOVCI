@@ -10,7 +10,7 @@
     <div class="row">
 
         <div class="col-md-3">
-            <h3 class="text-center">Contactanos</h3>
+            <h3 class="text-center"></h3>
 
             <img src="img/mercadeo.png" alt="..." class="img">
         </div>

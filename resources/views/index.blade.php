@@ -31,3 +31,11 @@
     </div>
 
 @endsection
+
+@section('contenido')
+
+    <h3 class="col-md-12 text-center">Tu tienda de cómputo de confianza</h3>
+
+    
+
+@endsection

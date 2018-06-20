@@ -9,11 +9,11 @@
     <div class="row">
 
         <div class="col-md-3">
-            <h4>Menú productos</h4>
+            <h4 class="bg-nav">Menú productos</h4>
         </div>
 
         <div class="col-md-9">
-            <h4>productos</h4>
+            <h4 class="bg-nav">productos</h4>
 
         <div class="card-columns">
 
