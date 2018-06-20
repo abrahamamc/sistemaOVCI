@@ -1,3 +1,12 @@
 h4 {
     background: blueviolet;
 }
+
+.caja:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    z-index: 100;
+}
+.size-produc {
+    height: 180%;
+}

@@ -18,7 +18,7 @@
         <div class="card-columns">
 
                 <div class="card">
-                        <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="img/mouse.jpg" alt="Card image cap">
                         <div class="card-body">
                           <h5 class="card-title">Producto 1</h5>
                           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -30,7 +30,7 @@
                       </div>
 
                       <div class="card">
-                            <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+                            <img class="card-img-top" src="img/teclado.jpg" alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title">Producto 2</h5>
                               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -42,7 +42,7 @@
                           </div>
 
                           <div class="card">
-                                <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+                                <img class="card-img-top" src="img/discoduro.jpg" alt="Card image cap">
                                 <div class="card-body">
                                   <h5 class="card-title">Producto 3</h5>
                                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

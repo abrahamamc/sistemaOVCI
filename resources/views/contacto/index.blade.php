@@ -12,7 +12,7 @@
         <div class="col-md-3">
             <h3 class="text-center">Contactanos</h3>
 
-            <img src="img/png/callcenter.png" alt="..." class="img">
+            <img src="img/mercadeo.png" alt="..." class="img">
         </div>
 
         <div class="col-md-6">
