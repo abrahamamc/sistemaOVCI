@@ -34,7 +34,39 @@
 
 @section('contenido')
 
-    <h3 class="col-md-12 text-center">Tu tienda de cómputo de confianza</h3>
+<div class="col-md-12">
+    <h3 class="text-center">Tu tienda de cómputo de confianza</h3>
+    <br>
+</div>
+
+
+    <div class="card-columns">
+
+        <div class="card">
+            <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Promoción 1</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+
+          <div class="card">
+                <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Promoción 2</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+              </div>
+
+              <div class="card">
+                    <img class="card-img-top" src="img/img-ejemplo.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Promoción 3</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                  </div>
+
+    </div>
 
     
 
